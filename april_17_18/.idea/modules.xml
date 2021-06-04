@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../algoexpert/.idea/algoexpert.iml" filepath="$PROJECT_DIR$/../algoexpert/.idea/algoexpert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../april19th/.idea/april19th.iml" filepath="$PROJECT_DIR$/../april19th/.idea/april19th.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../april20/.idea/april20.iml" filepath="$PROJECT_DIR$/../april20/.idea/april20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/april_17_18.iml" filepath="$PROJECT_DIR$/.idea/april_17_18.iml" />
+    </modules>
+  </component>
+</project>
